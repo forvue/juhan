@@ -946,7 +946,6 @@ Markup
 
 .portf li a {
   display: block;
-  max-width: 200px;
   box-sizing: border-box;
   padding: 2vw;
   background-color: #cbc8c3;
@@ -959,6 +958,7 @@ Markup
 }
 
 .portf li a img {
+  max-width: 200px;
   filter: grayscale(80%) blur(1.5px);
   transition: cubic-bezier(0.7, 0, 0.3, 1) .45s;
 }
