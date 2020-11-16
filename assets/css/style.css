@@ -946,6 +946,7 @@ Markup
 
 .portf li a {
   display: block;
+  max-width: 200px;
   box-sizing: border-box;
   padding: 2vw;
   background-color: #cbc8c3;
