@@ -958,6 +958,7 @@ Markup
 }
 
 .portf li a img {
+  width: 100%;
   max-width: 200px;
   filter: grayscale(80%) blur(1.5px);
   transition: cubic-bezier(0.7, 0, 0.3, 1) .45s;
